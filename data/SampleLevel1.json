@@ -11,8 +11,8 @@
         {
             "user": "Nobody",
             "link": "https://youtu.be/93831293127?si=jidajuiduwa",
-            "percent": 100,
-            "hz": 240
+            "percent": 0,
+            "hz": 60
         }
     ]
 }
