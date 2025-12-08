@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to whatever u choose!)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -123,6 +123,8 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        CBF is allowed, it isn't a hacking tool, its for people who has low-end-devices and wanna have a cool gameplay!
                 </div>
             </div>
         </main>
