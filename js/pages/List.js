@@ -125,6 +125,9 @@ export default {
                     </p>
                     <p>
                         CBF is allowed, it isn't a hacking tool, its for people who has low-end-devices and wanna have a cool gameplay!
+                    </p>
+                    <p>
+                        The Submit Button Broke For Some Reason. So I Deleted It, If U Wanna Submit Any Records Go Here: https://docs.google.com/forms/d/e/1FAIpQLSfoktB53FQCeNLfucwi2YQQ7ZclOWqjyxjgA8eX7q9GGRU3Yg/viewform?usp=dialog
                 </div>
             </div>
         </main>
